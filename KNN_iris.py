@@ -1,3 +1,6 @@
+''' THIS SCRIPT USES THE K NEAREST NEIGHBORS ALGORITHM TO CLASSIFY
+FLOWER SPECIES FROM THE IRIS DATASET, AND ALSO PRODUCES A 2-D PLOT 
+OF THE CLASSIFICATION'''
 import numpy as np
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import datasets
