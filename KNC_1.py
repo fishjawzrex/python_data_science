@@ -1,3 +1,5 @@
+''' THIS USES THE K NEAREST NEIGHBORS ALGORITHM TO CLASSIFY
+FLOWER SPECIES FROM THE IRIS DATASET'''
 import numpy as np
 from sklearn import datasets
 np.random.seed(0)
