@@ -1,3 +1,5 @@
+'''THIS PROGRAM USES KMEANS CLUSTERING FROM THE SKLEARN LIBRARY TO CLASSIFY
+AND PREDICT FLOWER SPECIES FROM THE IRIS DATASET'''
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
